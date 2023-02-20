@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+ .boxes{
+  background-color: rgb(230, 217, 217);
+  color: rgb(97, 86, 159);
+  border-color:rgb(255, 255, 255);
+  font-size: xx-large;
+  font-weight: bold;
+ }
